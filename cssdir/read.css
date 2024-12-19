@@ -1,0 +1,21 @@
+html {
+	background-image: url(https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0yMThiYXRjaDcta2F0aWUtNDRhLWpvYjU5Ny5qcGc.jpg);
+	background-size: cover;
+	/* even if it is repeated by default */
+}
+
+.first-line {
+	padding-left: 30px;
+}
+
+p {
+	color: white;
+}
+
+.headers {
+	color: blueviolet;
+}
+
+a {
+	color: green;
+}
